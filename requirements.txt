@@ -1,0 +1,8 @@
+fire
+torchvision
+visdom
+jieba
+ipython<6
+jupyter
+ipdb
+tqdm
